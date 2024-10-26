@@ -8,3 +8,5 @@ A Python package to embed audio files within image files using the RGB channels.
 pip install audio_image_embedder
 
 
+```
+go
