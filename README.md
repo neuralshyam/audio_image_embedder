@@ -7,4 +7,4 @@ A Python package to embed audio files within image files using the RGB channels.
 ```bash
 pip install audio_image_embedder
 
-dispatch 1
+
